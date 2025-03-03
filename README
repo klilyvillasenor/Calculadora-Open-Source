@@ -1,0 +1,18 @@
+calculadora_open_source/
+├── main.py
+├── sumar.py
+├── resta.py
+├── multiplicacion.py
+├── dividir.py
+├── suma_avanzada.py
+├── README.md
+└── LICENSE
+
+
+# Calculadora Open Source
+
+Este es un proyecto simple de una calculadora que permite realizar las operaciones básicas como sumar, restar, multiplicar, dividir y sumar una cantidad variable de números.
+
+## Instrucciones para ejecutar el código
+
+1. Clona el repositorio:
